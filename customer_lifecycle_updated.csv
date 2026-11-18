@@ -1,5 +1,0 @@
-customer_id,signup_date,last_active_date,reference_date,membership_duration_days,membership_duration_years,membership_duration_log,lifecycle_stage,days_since_last_activity
-101,2023-01-15,2026-06-01,2026-06-01,1402,3.84,7.246368080102461,At Risk Customer,169
-102,2021-06-10,2026-06-01,2026-06-01,1986,5.44,7.594381242551817,At Risk Customer,169
-103,2024-11-01,2026-05-15,2026-06-01,746,2.04,6.616065185132817,Inactive Customer,186
-104,2019-03-20,2026-06-01,2026-06-01,2799,7.66,7.937374696163295,At Risk Customer,169
